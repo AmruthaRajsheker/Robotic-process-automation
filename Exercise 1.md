@@ -1,19 +1,19 @@
-# Exercise 1 - Hello World: Display a Message Box 
+## Exercise 1 - Hello World: Display a Message Box 
 
-## Aim:
+### Aim:
 To develop a simple automation script in UI Path that displays a "Hello World" message using a Message Box activity.
 
-## Equipment Required:
+### Equipment Required:
 1. A computer with Windows OS.
 2. UI Path Studio installed.
 3. Basic knowledge of UI Path Studio activities and workflow creation.
 
-## Theory:
+### Theory:
 UI Path is an RPA (Robotic Process Automation) tool that allows automation of repetitive tasks. The Message Box activity in UI Path is used to display a pop-up dialog containing a message. This is one of the simplest ways to demonstrate UI Path's functionality. It helps in building user interfaces for automations that require interaction.
 
 The **Message Box** activity halts the execution of the automation until the user closes the dialog box, making it a great tool for debugging and basic workflows.
 
-## Procedure:
+### Procedure:
 1. **Open UI Path Studio**: Launch UI Path Studio from your computer.
 2. **Create a New Project**: 
    - Click on the 'New Project' button.
@@ -33,10 +33,10 @@ The **Message Box** activity halts the execution of the automation until the use
    - The Message Box with "Hello, World!" will appear.
    - After clicking 'OK,' the automation will end.
 
-## Output:
+### Output:
 - A pop-up message box displaying the text "Hello, World!".
 - The automation successfully halts at the message box until the user clicks "OK."
 
-## Result:
+### Result:
 The "Hello, World!" automation script was successfully created in UI Path, demonstrating the use of the Message Box activity to display a message. This basic exercise serves as a foundation for building more complex UI Path workflows.
 
