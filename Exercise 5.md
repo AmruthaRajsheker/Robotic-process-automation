@@ -69,11 +69,8 @@ To create an automation that scrapes data from a website and saves it to a CSV f
 2. **CSV File**: The scraped data will be saved as a CSV file at the specified location.
 
 
+
 ### Result:
-The automation successfully scrapes structured data from a website and saves it to a CSV file, demonstrating the use of Data Scraping and Write CSV activities in UI Path.
-
-
-## Result:
 The automation successfully scrapes structured data from a website and saves it to a CSV file, demonstrating the use of **Data Scraping** and **Write CSV** activities in UI Path.
 
 
