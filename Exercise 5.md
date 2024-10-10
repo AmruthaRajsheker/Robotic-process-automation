@@ -1,13 +1,13 @@
-# Exercise 5: Web Scraping Data (UI Path)
+## Exercise 5: Web Scraping Data (UI Path)
 
 
 
-## Aim:
+### Aim:
 To create an automation that scrapes data from a website and saves it to a CSV file using UI Path.
 
 
 
-## Equipment Required:
+### Equipment Required:
 1. A computer with Windows OS.
 2. UI Path Studio installed.
 3. Internet access to access a website for scraping data.
@@ -23,7 +23,7 @@ To create an automation that scrapes data from a website and saves it to a CSV f
 
 
 
-## Procedure:
+### Procedure:
 
 >#### 1. **Open UI Path and Create a New Project**
 #### Step 1: Open UI Path Studio
@@ -64,10 +64,13 @@ To create an automation that scrapes data from a website and saves it to a CSV f
 
 
 
-## Output:
+### Output:
 1. **Web Scraped Data**: The selected structured data from the website will be stored in a **DataTable**.
 2. **CSV File**: The scraped data will be saved as a CSV file at the specified location.
 
+
+### Result:
+The automation successfully scrapes structured data from a website and saves it to a CSV file, demonstrating the use of Data Scraping and Write CSV activities in UI Path.
 
 
 ## Result:
