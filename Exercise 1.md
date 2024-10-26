@@ -36,6 +36,8 @@ The **Message Box** activity halts the execution of the automation until the use
 ### Output:
 - A pop-up message box displaying the text "Hello, World!".
 - The automation successfully halts at the message box until the user clicks "OK."
+- ![image](https://github.com/user-attachments/assets/033d270b-fe41-442a-9ae4-65c2c912761e)
+
 
 ### Result:
 The "Hello, World!" automation script was successfully created in UI Path, demonstrating the use of the Message Box activity to display a message. This basic exercise serves as a foundation for building more complex UI Path workflows.
