@@ -59,5 +59,10 @@ In this exercise, we will use **Input Dialog** to get the name from the user, fo
 2. **For Switch Case**:
    - Depending on the input, the workflow will display different personalized welcome messages for predefined names (like Ram, John, Alice) and a default message for other names.
 
+![image](https://github.com/user-attachments/assets/763e81ec-5b92-4091-9893-3b548d1bb594)
+![image](https://github.com/user-attachments/assets/2762a8b5-3306-4dd9-a7e6-e1c23686df95)
+
+
+
 ## Result:
 The automation successfully displayed appropriate welcome messages based on the user's input using both IF condition and Switch case activities. This demonstrates conditional logic and branching in UI Path workflows.
