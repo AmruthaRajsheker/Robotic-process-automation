@@ -62,12 +62,20 @@ To create an automation that scrapes data from a website and saves it to a CSV f
 #### Step 6: Run the Automation
 - Run the automation to launch the browser, scrape the data, and save it to the specified CSV file.
 
+### Table Used
+
+![image](https://github.com/user-attachments/assets/54c2de11-b1c4-4852-9cb5-f58ced5671da)
+
+
+### Main.Xaml
+![image](https://github.com/user-attachments/assets/76a95209-fc9d-47e7-ab41-613f4807fd57)
 
 
 ### Output:
 1. **Web Scraped Data**: The selected structured data from the website will be stored in a **DataTable**.
 2. **CSV File**: The scraped data will be saved as a CSV file at the specified location.
 
+![image](https://github.com/user-attachments/assets/30128ae0-6deb-464e-8671-55fc2407ff3a)
 
 
 ### Result:
