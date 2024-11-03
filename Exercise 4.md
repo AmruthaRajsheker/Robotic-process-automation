@@ -61,11 +61,17 @@ Excel is commonly used in automation for data storage and manipulation. UI Path 
 - Run the automation to read data from the source Excel file and write it to the target Excel file.
 
 
+## Main.xaml
+
+![image](https://github.com/user-attachments/assets/cab349d8-b9bd-4043-b391-bbc108eaef07)
+
+
 
 ## Output:
 1. **Input Excel File**: The original Excel file's data is read and stored in the DataTable.
 2. **Output Excel File**: A new or existing Excel file is populated with the data from the input Excel file.
 
+![image](https://github.com/user-attachments/assets/9ded23b7-26fd-419b-8a8d-d9b23cd541d8)
 
 
 ## Result:
