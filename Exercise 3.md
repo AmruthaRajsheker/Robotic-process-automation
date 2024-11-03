@@ -65,6 +65,13 @@ Each of these loops can be used to automate repetitive tasks and control the flo
 - Save the workflow by clicking on the save icon.
 - Run the automation to see the loops in action.
 
+## Main.xaml:
+
+![image](https://github.com/user-attachments/assets/e940f9c0-0934-4c75-a630-9334c3dd6d70)
+
+![image](https://github.com/user-attachments/assets/276a7e02-c0df-4d2a-a4c1-09d089bb7411)
+
+![image](https://github.com/user-attachments/assets/2b5e59ed-f3c7-4eb1-a849-5323b1a49f8e)
 
 
 ## Output:
