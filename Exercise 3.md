@@ -77,6 +77,9 @@ Each of these loops can be used to automate repetitive tasks and control the flo
 3. **For Do-While Loop**:
    - A message box will appear at least once and continue to display until the condition is false, showing `"In Do-While Loop: Iteration 1"`, `"Iteration 2"`, and so on.
 
+![image](https://github.com/user-attachments/assets/216c41c9-73d1-4142-b371-2194c10496ed)
+
+
 ## Result:
 The automation successfully demonstrates the use of **Repeat**, **While**, and **Do-While** loops, iterating over a series of actions and controlling the flow of execution based on conditions.
 
