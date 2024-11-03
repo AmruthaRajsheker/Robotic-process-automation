@@ -1,14 +1,14 @@
-# Exercise 3: Flow Sequence or Flow Chart Using Repeat, While, and Do-While Loops (UI Path)
+## Exercise 3: Flow Sequence or Flow Chart Using Repeat, While, and Do-While Loops (UI Path)
 
-## Aim:
+### Aim:
 To create an automation that demonstrates the usage of **Repeat**, **While**, and **Do-While** loops in UI Path through a Flow Sequence or Flow Chart.
 
-## Equipment Required:
+### Equipment Required:
 1. A computer with Windows OS.
 2. UI Path Studio installed.
 3. Basic knowledge of UI Path activities (Repeat, While, and Do-While loops).
 
-## Theory:
+### Theory:
 In UI Path, loops are used to perform repetitive actions until a specified condition is met. The most commonly used loops are:
 
 1. **Repeat**: Repeats a set of activities a specified number of times.
@@ -17,13 +17,13 @@ In UI Path, loops are used to perform repetitive actions until a specified condi
 
 Each of these loops can be used to automate repetitive tasks and control the flow of the automation process.
 
-## Procedure:
+### Procedure:
 
-### 1. **Creating a Flow Sequence with Loops**:
-#### Step 1: Open UI Path Studio
+#### 1. **Creating a Flow Sequence with Loops**:
+##### Step 1: Open UI Path Studio
 - Launch UI Path Studio and create a new project (e.g., "FlowWithLoops").
 
-#### Step 2: Design the Flow
+##### Step 2: Design the Flow
 - Open **Main.xaml** and create a **Flow Chart** or **Flow Sequence** depending on your preference.
 - Drag and drop the necessary activities for the three loops: Repeat, While, and Do-While.
 
@@ -65,7 +65,7 @@ Each of these loops can be used to automate repetitive tasks and control the flo
 - Save the workflow by clicking on the save icon.
 - Run the automation to see the loops in action.
 
-## Main.xaml:
+### Main.xaml:
 
 ![image](https://github.com/user-attachments/assets/e940f9c0-0934-4c75-a630-9334c3dd6d70)
 
@@ -74,7 +74,7 @@ Each of these loops can be used to automate repetitive tasks and control the flo
 ![image](https://github.com/user-attachments/assets/2b5e59ed-f3c7-4eb1-a849-5323b1a49f8e)
 
 
-## Output:
+### Output:
 1. **For Repeat Loop**: 
    - A message box will appear 5 times displaying `"Iteration 1"`, `"Iteration 2"`, etc.
    
@@ -87,6 +87,6 @@ Each of these loops can be used to automate repetitive tasks and control the flo
 ![image](https://github.com/user-attachments/assets/216c41c9-73d1-4142-b371-2194c10496ed)
 
 
-## Result:
+### Result:
 The automation successfully demonstrates the use of **Repeat**, **While**, and **Do-While** loops, iterating over a series of actions and controlling the flow of execution based on conditions.
 
