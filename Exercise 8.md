@@ -61,9 +61,21 @@ Web automation involves programmatically interacting with web applications to pe
 #### Step 7: Run the Automation
 - Run the automation to open the web form, fill it with user data, and submit the form.
 
+### Main.xaml
+
+![image](https://github.com/user-attachments/assets/78789cd2-a0e3-4310-bbf1-54bf8e377201)
+
+![image](https://github.com/user-attachments/assets/c8431cab-228c-40b9-9997-51086b16767c)
+
+![image](https://github.com/user-attachments/assets/44ae844e-47f3-42d5-99e6-6e1bb57dffb7)
+
+
 ### Output:
 1. **Filled Form**: The web form will be filled with the specified user data.
 2. **Form Submission**: The form will be submitted successfully, and the user will receive any confirmation displayed on the website.
+
+![OUT](https://github.com/user-attachments/assets/ef212ec9-7391-4e55-9bb4-0829dd64e4f1)
+
 
 ### Result:
 The automation successfully fills a simple web form with user data and submits it, demonstrating the use of **Open Browser**, **Type Into**, and **Click** activities in UI Path.
