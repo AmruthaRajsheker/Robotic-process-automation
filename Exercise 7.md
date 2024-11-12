@@ -46,9 +46,20 @@ Extracting text from PDF files is a common automation task that can be accomplis
 #### Step 6: Run the Automation
 - Run the automation to extract text from the PDF file and save it to the specified text file.
 
+### Main.xaml
+![image](https://github.com/user-attachments/assets/fa437259-8a68-4249-8a8a-5f976bb2d249)
+
+
 ### Output:
 1. **Extracted Text**: The text content from the PDF file will be stored in the `extractedText` variable.
+
+![image](https://github.com/user-attachments/assets/bb1d696c-7a28-4f1e-a848-6944d61b0c53)
+
+   
 2. **Text File**: The extracted text will be saved as a text file at the specified location.
+
+![image](https://github.com/user-attachments/assets/542f6f3b-a25a-4175-a8f4-3bfa4a030d54)
+
 
 ### Result:
 The automation successfully extracts text from a PDF file and saves it to a text file, demonstrating the use of **Read PDF Text** and **Write Text File** activities in UI Path.
