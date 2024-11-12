@@ -53,9 +53,19 @@ File manipulation is a common task in automation. UI Path provides activities th
 #### Step 6: Run the Automation
 - Run the automation to copy all files from the source folder to the destination folder while renaming them with a timestamp.
 
+### Main.Xaml
+
+![image](https://github.com/user-attachments/assets/8cc45933-57e7-459c-94ce-dded49923827)
+![image](https://github.com/user-attachments/assets/1267072f-ad6e-444d-946f-a678537545de)
+
+
 ### Output:
-1. **Copied Files**: All files from the source folder will be copied to the destination folder.
-2. **Renamed Files**: Each file will be renamed by appending the current timestamp to its original name.
+#### Source folder
+![image](https://github.com/user-attachments/assets/530103da-8c62-4da3-aaf6-64662457aaca)
+
+#### Destination folder
+![image](https://github.com/user-attachments/assets/bf4f241f-56ca-4046-a7ad-3905f9336354)
+
 
 ### Result:
 The automation successfully copies and renames files from a source folder to a destination folder, demonstrating the use of **Copy File**, **For Each**, and file manipulation techniques in UI Path.
