@@ -46,9 +46,20 @@ Keyboard automation involves simulating keystrokes to interact with applications
 #### Step 6: Run the Automation
 - Run the automation to launch Notepad, simulate typing the text, and perform the keyboard shortcuts.
 
+### Main.Xaml
+
+![image](https://github.com/user-attachments/assets/47750006-8553-45bb-9efa-832cffe975e8)
+
+![image](https://github.com/user-attachments/assets/59a012e0-7421-41f3-ade1-3766d20fec1a)
+
+
 ### Output:
 1. **Notepad Content**: The specified text will be typed into Notepad.
 2. **Keyboard Shortcuts**: The text will be copied and pasted as specified by the keyboard shortcuts.
+
+
+![image](https://github.com/user-attachments/assets/52ea3ec5-2b55-41dd-a0b6-3bdfa31590e7)
+
 
 ### Result:
 The automation successfully simulates typing and keyboard shortcuts in Notepad, demonstrating the use of **Start Process**, **Type Into**, and **Send Hotkey** activities in UI Path.
