@@ -53,8 +53,15 @@ Email automation involves sending emails programmatically using automation tools
 #### Step 5: Run the Automation
 - Run the automation to send the email from your Gmail account to the specified recipient.
 
+### Main.xaml
+![image](https://github.com/user-attachments/assets/fe1fd78d-9dad-477b-a43d-1bd4e87e49ae)
+
+
 ### Output:
 1. **Email Sent**: An email will be sent to the recipient's email address with the specified subject and body.
+
+![image](https://github.com/user-attachments/assets/03d966ca-407b-4c7b-b699-5ac53339f5a5)
+
 
 ### Result:
 The automation successfully sends an email from a Gmail account using UI Path, demonstrating the use of the **Send SMTP Mail Message** activity for email automation.
